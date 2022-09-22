@@ -34,4 +34,4 @@ symptom(amit,fever).
         symptom(Patient,headache),
         symptom(Patient,sneezing),
         symptom(Patient,sore_throat),
-        symptom(Patient,chills),
+        symptom(Patient,chills).
